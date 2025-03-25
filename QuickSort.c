@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <time.h>
 
 void troca(int vetor[], int i, int j)
 {
